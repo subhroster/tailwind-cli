@@ -1,4 +1,4 @@
-# Tailwind CLI
+# Tailwind Setup CLI
 
 A command line tool for setting up Tailwind CSS with Prettier integration for automatic class sorting.
 
