@@ -5,15 +5,15 @@ A command line tool for setting up Tailwind CSS with Prettier integration for au
 ## Installation
 
 To install the package globally, run:
-
-npm install -g tailwind-cli
-
+```
+npm install -g tailwind-setup-cli
+```
 ## Usage
 
 After installing the package, you can set up Tailwind CSS by running:
 
 ```
-tailwind-setup
+tailwind-setup-cli
 ```
 
 ### Configuration Options

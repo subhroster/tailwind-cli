@@ -1,11 +1,11 @@
 {
   "name": "tailwind-setup-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command line tool for setting up Tailwind CSS with Prettier integration for automatic class sorting.",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "tailwind-setup": "./index.js"
+    "tailwind-setup-cli": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
